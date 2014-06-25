@@ -1,0 +1,26 @@
+{
+  "name": "friindex",
+  "version": "1.0.0",
+  "description": "A simple inverted index engine",
+  "main": "lib/friindex.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "natural": "=0.1.27"
+  },
+  "devDependencies": {
+    "jasmine-node": ">= 1.14",
+    "coffee-script": ">= 1.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/foodrunner/friindex.git"
+  },
+  "author": "Tony Le <lvtien.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foodrunner/friindex/issues"
+  },
+  "homepage": "https://github.com/foodrunner/friindex"
+}
