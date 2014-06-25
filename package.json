@@ -13,6 +13,11 @@
     "jasmine-node": ">= 1.14",
     "coffee-script": ">= 1.7"
   },
+  "keywords": [
+    "inverted",
+    "index",
+    "search"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/foodrunner/friindex.git"
